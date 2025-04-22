@@ -44,22 +44,4 @@ import Wrapper from "@/components/fundations/containers/Wrapper.astro";
   </div>
 </div>
 
-<script>
-  // JavaScript can be added here if needed for interactivity
-  // Example: highlight active page
-  document.addEventListener("DOMContentLoaded", function () {
-    const menuItems = document.querySelectorAll("button");
 
-    menuItems.forEach((item) => {
-      item.addEventListener("click", function () {
-        // Remove active class from all buttons
-        menuItems.forEach((btn) =>
-          btn.classList.remove("text-black", "font-medium")
-        );
-
-        // Add active class to clicked button
-        this.classList.add("text-black", "font-medium");
-      });
-    });
-  });
-</script>
