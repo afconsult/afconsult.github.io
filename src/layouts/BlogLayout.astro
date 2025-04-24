@@ -39,7 +39,7 @@ allPosts.sort((a, b) => {
           variant="textXL"
           data-aos="fade-up"
           data-aos-duration="1200"
-          class="mt-2 text-base-600 dark:text-base-300 lg:text-balance"
+          class="mt-2 text-base-700 dark:text-base-300 lg:text-balance"
         >
           {frontmatter.description}
         </Text>
@@ -63,7 +63,7 @@ allPosts.sort((a, b) => {
             <Text
               tag="span"
               variant="textBase"
-              class="text-base-600 dark:text-base-300"
+              class="text-base-700 dark:text-base-300"
             >
               <time
                 datetime={new Date(frontmatter.pubDate).toLocaleDateString(
@@ -100,7 +100,7 @@ allPosts.sort((a, b) => {
             <Text
               tag="p"
               variant="textBase"
-              class="text-base-600 dark:text-base-300"
+              class="text-base-700 dark:text-base-300"
               >{frontmatter.author}</Text
             >
           </div>
@@ -123,7 +123,7 @@ allPosts.sort((a, b) => {
                     tag="a"
                     variant="textBase"
                     href={`/blog/tags/${tag}`}
-                    class=" text-base-600 dark:text-base-300 lg:text-balance capitalize"
+                    class=" text-base-700 dark:text-base-300 lg:text-balance capitalize"
                   >
                     {tag}
                   </Text>
