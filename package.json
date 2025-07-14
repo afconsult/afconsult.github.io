@@ -19,6 +19,7 @@
     "@tailwindcss/typography": "^0.5.16",
     "@tailwindcss/vite": "^4.0.14",
     "astro": "^5.5.1",
+    "sharp": "^0.34.3",
     "tailwind-scrollbar-hide": "^2.0.0",
     "tailwindcss": "^4.0.14"
   }
