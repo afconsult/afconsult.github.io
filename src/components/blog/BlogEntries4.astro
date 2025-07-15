@@ -35,7 +35,7 @@ const { url, title, description, pubDate, image, author } = {
         variant="displayLG"
         class="dark:text-white text-base-900 font-medium tracking-tighter text-balance"
       >
-        (0{index}) {title}
+        {title}
       </Text>
 
       <Text
@@ -45,9 +45,10 @@ const { url, title, description, pubDate, image, author } = {
       >
         {description}
       </Text>
+<!---
       <Text tag="p" variant="textXS" class="dark:text-base-400 text-base-700 mt-8"
-        >{author} — <timed date={pubDate}>{pubDate}</timed></Text
-      >
+        >{author} — <timed date={pubDate}>{pubDate}</timed></Text>
+--->
     </div>
   </div>
 </div>
