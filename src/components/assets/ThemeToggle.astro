@@ -47,7 +47,10 @@ const { class: className = "", ...rest } = Astro.props;
       "(prefers-color-scheme: dark)"
     ).matches;
     const isDark = savedTheme ? savedTheme === "dark" : systemPrefersDark;
-    updateTheme(isDark);
+
+	// console.log("Forcing light theme on reload");
+    updateTheme(false);
+	//updateTheme(isDark);
   }
 
   initializeTheme();
