@@ -1,11 +1,12 @@
 ---
 // Fundations
 import Text from "@/components/fundations/elements/Text.astro";
+import Link from "@/components/fundations/elements/Link.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 ---
 
 <section>
-  <Wrapper variant="standard" class="py-24   lg:py-48">
+  <Wrapper variant="standard" class="py-24   lg:py-28">
     <div class="overflow-hidden">
       <Text
         tag="h1"
@@ -17,5 +18,16 @@ import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 		Entscheidungen, <br> bei denen <u>alle</u> mitgehen können. 
       </Text>
     </div>
+  </Wrapper>
+  <Wrapper variant="standard">
+        <div class="flex mt-4">
+          <Link class="ml-auto" size="xl" variant="accent" href="https://app.formbricks.com/s/cmd74zg9b9aklys01sckpajhr"
+
+        data-aos="fade-up"
+        data-aos-duration="1000"
+>
+            Schreibt uns
+          </Link>
+        </div>
   </Wrapper>
 </section>

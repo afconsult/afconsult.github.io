@@ -5,34 +5,19 @@ import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 // Array
 const philosphy = [
   {
-    title: "Create with Purpose",
+    title: "Tauschfrei",
     description:
-      "At Vestal, we believe design should inspire and elevate. We craft 3D experiences that spark imagination and drive innovation.",
+      "Wir arbeiten nicht für Geld, wir kommen um zu unterstützen was uns selbst am Herzen liegt. Und wir brauchen Geld, um unseren Lebensunterhalt zu bezahlen. Manchmal bekommen wir 0€ für einen Tag Arbeit, mal 2000€ — lasst uns gemeinsam rausfinden wie groß eure Kapazität und Bereitschaft ist uns finanziell zu unterstützen.",
   },
   {
-    title: "Collaborative Spirit",
+    title: "Integrität",
     description:
-      "Our team of artists, technologists, and innovators work together to push boundaries and deliver exceptional results.",
+      "..."
   },
   {
-    title: "Creative Process",
+    title: "und noch einz",
     description:
-      "We embrace curiosity and iteration, constantly exploring new techniques and technologies to stay ahead of the curve.",
-  },
-  {
-    title: "Quality Obsessed",
-    description:
-      "Meticulous attention to detail ensures our 3D designs and textures meet the highest standards of quality and realism.",
-  },
-  {
-    title: "Innovative Culture",
-    description:
-      "Vestal fosters a culture of continuous learning, encouraging experimentation and embracing emerging technologies.",
-  },
-  {
-    title: "Client Partnerships",
-    description:
-      "We collaborate closely with clients, listening to their needs and delivering tailored solutions that exceed expectations.",
+      "...",
   },
 ];
 ---
@@ -48,7 +33,7 @@ const philosphy = [
         data-aos="fade-up"
         data-aos-duration="1000"
         class="dark:text-white text-base-900 font-medium tracking-tighter text-balance"
-        >philosphy
+        >Unsere Prinzipien
       </Text>
       <div
         class="flex flex-col sm:col-span-2 lg:col-span-3 divide-y divide-base-200 dark:divide-base-800 border-y border-base-200 dark:border-base-800"
@@ -58,18 +43,17 @@ const philosphy = [
             <div class="  grid grid-cols-1 lg:grid-cols-3 py-4">
               <Text
                 tag="h4"
-                variant="textBase"
+                variant="displayXS"
                 data-aos="fade-up"
                 data-aos-duration="1500"
                 class="dark:text-white text-base-900 font-medium tracking-tight text-balance"
               >
-                <span>(0{index + 1})</span>
                 {process.title}
               </Text>
               <div class="lg:col-span-2 overflow-hidden">
                 <Text
                   tag="h4"
-                  variant="textBase"
+                  variant="textXL"
                   data-aos="fade-up"
                   data-aos-duration="2000"
                   class="dark:text-base-400  text-base-700  "
