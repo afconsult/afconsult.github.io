@@ -1,6 +1,9 @@
 # Build output
 dist/
 
+# Dev server files
+.astro 
+
 # Dependencies
 node_modules/
 
