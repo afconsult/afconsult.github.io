@@ -20,7 +20,7 @@ const { url, title, description, pubDate, image, author } = {
 ---
 
 <div class="relative group py-4">
-  <a class="absolute inset-0 z-10" href={url} title={title}></a>
+  <a class="absolute inset-0 z-10" title={title}></a> <!-- vor "title={title}" "href={url}" einfügen um blog post clickbar zu machen"  -->
   <div class="relative grid grid-cols-1 gap-12 lg:grid-cols-2 lg:items-center">
     <Image
       src={image}
