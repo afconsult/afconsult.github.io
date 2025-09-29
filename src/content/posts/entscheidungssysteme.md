@@ -2,7 +2,7 @@
 pubDate: 2025-02-03
 author: "Clara Novak"
 title: "Entscheidungssysteme für Organisationen und Gruppen"
-description: "Klarheit schaffen wer wann wie Entscheidungen trifft. Und zwar so, dass es für alle passt, mit möglichst wenig Energieaufwand! Klingt paradox? Ist es nicht!"
+description: "Klarheit schaffen, wer wann wie Entscheidungen trifft. Und zwar so, dass es für alle passt, und mit möglichst wenig Energieaufwand."
 authorAvatar:
   url: "/images/authors/3.jpg"
   alt: "#_"

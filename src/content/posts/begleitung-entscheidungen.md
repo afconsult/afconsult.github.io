@@ -2,7 +2,7 @@
 pubDate: 2025-02-02
 author: Sofia Lindström
 title: "Leitung komplexer und polarisierter Entscheidungen"
-description: "Wenn der Abgrund zwischen verschiedenen Positionen unüberwindbar scheint, bringen wir alle Beteiligten und Betroffenen jenseits von richtig und falsch  zusammen und unterstützen sie eine Lösung zu finden, die für alle funktioniert."
+description: "Wenn der Abgrund zwischen verschiedenen Positionen unüberwindbar scheint, bringen wir alle Beteiligten und Betroffenen jenseits von richtig und falsch  zusammen — und unterstützen sie dabei, eine Lösung zu finden, die für alle funktioniert und bereit sind mitzutragen."
 authorAvatar:
   url: "/images/authors/2.jpg"
   alt: "#_"
