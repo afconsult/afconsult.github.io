@@ -1,4 +1,20 @@
-# Kotei
+# Entscheidungen für Alle
+
+## Content
+
+- **Wie wir dabei helfen**
+  - Text: `src/content/posts/`
+  - Images: `public/blog/`
+
+- **Unsere Prinzipien**: 
+  - Text: `src/components/landing/Philosphy.astro`
+
+- **Wir sind**:
+    - Text: `src/pages/index.astro`
+    - Images: `src/images/team/`
+
+--- 
+# Kotei Theme
 
 ## Template Integrations
 - Tailwind CSS v4  
