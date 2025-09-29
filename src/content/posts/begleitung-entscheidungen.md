@@ -7,7 +7,7 @@ authorAvatar:
   url: "/images/authors/2.jpg"
   alt: "#_"
 image:
-  url: "/blog/kotryna-juskaite-rVcEacfUdME-unsplash.jpg"
+  url: "/blog/sn-birdsh-1928783810.jpg"
   alt: "#_"
 tags: ["balance"]
 ---
