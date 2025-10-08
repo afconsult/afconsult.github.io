@@ -6,7 +6,7 @@ import Text from "@/components/fundations/elements/Text.astro";
 const { index } = Astro.props;
 
 const { url, title, description, pubDate, image, author } = {
-  url: "/blog/posts/" + Astro.props.post.slug,
+  url: Astro.props.post.slug,
   title: Astro.props.post.data.title,
   author: Astro.props.post.data.author,
   image: Astro.props.post.data.image.url,

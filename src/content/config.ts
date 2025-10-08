@@ -96,7 +96,7 @@ const store = defineCollection({
   }),
 });
 
-const posts = defineCollection({
+const services = defineCollection({
   schema: z.object({
     title: z.string(),
     pubDate: z.date(),
@@ -116,5 +116,5 @@ const posts = defineCollection({
 export const collections = {
   work: work,
   store: store,
-  posts: posts,
+  services: services,
 };
