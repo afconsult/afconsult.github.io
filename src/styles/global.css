@@ -104,3 +104,8 @@
   --astro-code-token-italic: italic;
   --astro-code-token-underline: underline;
 }
+
+blockquote {
+     quotes: none;
+}
+
