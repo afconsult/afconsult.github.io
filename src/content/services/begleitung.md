@@ -13,100 +13,114 @@ tags: ["balance"]
 ---
 
 
-> "The details are not the details. They make the design." – Charles Eames  
 
-In the ever-evolving world of design and engineering, crafting exceptional user experiences (UX) isn’t just about creativity—it’s about precision. Every pixel, interaction, and workflow matters. A seamless, intuitive user experience often lies in the details that users don’t even notice.  
+# Wie wir Bewegung in komplexe und polarsierende Entscheidungen bringen
 
-![User Experience Design Illustration](https://plus.unsplash.com/premium_photo-1661326248013-3107a4b2bd91?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)  
-*Caption: Attention to detail is key to creating seamless user experiences.*
+### Ausreichend Tiefe — und nicht mehr
 
-## Why Precision Matters in UX  
+Mit unserer Unterstützung wollen wir die Bedingungen in einer Gruppe zu schaffen, dass gemeinsam neue, kreative — und idealerweise ganz simple — Lösungen gefunden werden zu können zu bisher scheinbar unüberwindbaren Herausforderungen. Für uns bedeutet das im Kern, Menschen und Gruppen zu unterstützen zu erkennen, warum ihnen etwas wichtig ist, und sie auch darin zu unterstützen dies mit der Gruppe zu teilen, so dass diese Information für alle verfügbar ist und bedacht werden kann. Dieses "Warum" liegt meist tiefer, dichter am Bedürfnis, und wir unterstützen dabei mehr in die Tiefe zu kommen. Gleichzeitig, wollen wir uns nicht unendlich in die Tiefe begeben, weil es dann schnell so abstrakt wird, dass konkrete Lösungsstrategien in weiter Ferne scheinen. Wir folgen dem Prinzip: *So konkret wie möglich, so tief wie nötig.* Das *nötig* ist dabei in jedem Fall dadurch definiert, wann etwas als *nicht mehr* kontrovers von anderen Menschen in der Gruppe erlebt wird — etwas wo sie ja zu sagen können, auch wenn es ihnen selbst nicht unbedingt wichtig ist. 
 
-Precision in UX design is what separates good products from great ones. Consider a navigation bar:  
-- Is it intuitive for the user?  
-- Does it work across devices?  
-- Does it align with the brand’s identity?  
+![](sweetspot.png)
 
-These may seem like small decisions, but they collectively shape the overall experience. A precise UX design ensures that every interaction feels effortless, creating a sense of trust and delight for the user.
 
-## The Key Components of Precision in UX  
+Im Kern dessen, was wir hier anbieten, ist die Annahme, dass alles was Menschen tun (ja, auch gewaltvolle Taten), auf ein tiefer liegendes, lebensdienliches Bedürfnis zurückzuführen ist, und es an sich eine große Fülle an Möglichkeiten gibt, sich um dieses Bedürfnis zu kümmern. Und wenn wir ausreichend dicht an dieses tiefere Bedürfnis herankommen, wenn wir an die Essenz dessen, warum eine Person etwas möchte, herankommen, dann tauchen neue Lösungen auf. 
 
-### 1. **Micro-Interactions**  
-Micro-interactions are subtle animations or responses that provide feedback to the user. For example:  
-- A button that changes color when hovered over.  
-- A progress bar that fills as the user completes a task.  
 
-These details enhance usability and make the experience feel polished. However, precision is critical—too much animation can overwhelm users, while too little can make the interface feel static.  
 
-![Micro-Interactions Example](https://i.pinimg.com/736x/31/d1/a7/31d1a7c1471cee1c0bd8461214740236.jpg)  
-*Caption: Subtle animations like loading spinners guide users seamlessly.*  
+### Vertrauen, dass es möglich ist
 
----
+Dies ist oft unsichtbar, aber für uns essentiell: Nur, wenn zumindest eine Person im Raum im vollen Vertrauen ist, dass eine Entscheidung, die für alle funktioniert, möglich ist, wird sie auch möglich. 
 
-### 2. **Consistency Across Platforms**  
-Precision also means ensuring your design looks and feels consistent, whether on a smartphone, tablet, or desktop. Responsive design isn’t just about resizing elements—it’s about rethinking the experience for each device.  
+Wir bringen dieses Vertrauen mit. Und wenn wir mal, von der Herausforderung überwältigt, auch das Vertrauen verlieren, dann haben wir ein starkes Unterstützungssystem um uns herum, das uns hilft wieder ins Vertrauen zu kommen. 
 
-For example:  
-- On mobile, prioritize touch-friendly buttons and vertical scrolling.  
-- On desktop, leverage hover states and larger screen real estate for additional features.  
+# Effizienz — Sorgsamer Umgang mit inneren Ressourcen
 
-A consistent experience across platforms builds trust and ensures usability.
+Entscheidungen, die nicht leicht von der Hand gehen, können leicht extrem zeit- und energiezehrend werden. Uns ist wichtig, sorgsam mit den Energie- und Zeitressourcen aller Beteiligten umzugehen. Wir gucken daher die ganze Zeit: Was ist essentiell, um die Entscheidung zu treffen, und was nicht. Was trägt zum Näherkommen zur Entscheidung bei, und was ist "verschwendete" Energie. 
 
----
+Wir folgen dafür einigen Prinzipien, hier mal in Kürze zusammengefasst.
 
-### 3. **Content Hierarchy and Visual Design**  
-Every user interface has a story to tell, and precision ensures that story is clear. Use content hierarchy to guide the user’s attention:  
-- Headlines should be bold and prominent.  
-- Supporting text should be legible but secondary.  
-- Use whitespace strategically to reduce visual clutter.  
 
-Consider this scenario: A user on an e-commerce site needs to find a product quickly. A precise layout, combined with clear labels and search functionality, ensures they can complete their task without frustration.
+### Keine Übereinstimmung von Meinungen oder Glaubenssätzen nötig
 
----
+Wir bringen die Menschen in der Gruppe immer wieder zurück zu der Frage "Was möchtest Du/Sie in dieser Entscheidung berücksichtigt haben?". Wir bleiben da auf einer ganz praktischen Ebene. 
 
-## How to Implement Precision in Your Design Workflow  
+### Kein  Verfechten von Positionen
 
-### 1. **Adopt a User-Centered Mindset**  
-Precision starts with understanding your users. Conduct usability testing and gather data to identify pain points.  
+Wir sind als Begleiter der Entscheidung stets sehr präsent, und passen auf, dass Menschen nicht ins Miteinander diskutieren kommen darüber was die richtige Position oder Meinung ist. Dies ist wichtig, denn unsere Kultur hat uns beigebracht, dass wenn wir für etwas sind, wir meistens auch *gegen* etwas anderes sein müssen. 
 
-> "A design isn’t finished until someone is using it." – Brenda Laurel  
+Statt die Gruppe ins diskutieren kommmen zu lassen, helfen wir dabei tief genug zu schauen. Was ist, dass der einen Person wichtig ist, und was gleichzeitig nicht für andere kontrovers ist? 
 
-Use insights from your testing to refine your designs. Even small tweaks, like adjusting button placement or rewording labels, can make a big difference.
+> A: "Ich will, dass alle im Raum gleich viel sprechen!"
+>  
+> Kontrovers für B: "Ich will hier doch nicht ewig sitzen, es wiederholt sich doch alles!"
+>  
+> Essenz für Person A, die für Person B **nicht kontrovers** ist: "Ich will, dass alle sich ausreichend einbringen können."
 
----
+### Nicht jede Stimme, aber alles was wichtig ist
 
-### 2. **Iterate and Test Continuously**  
-Design precision isn’t achieved in a single iteration. Use tools like A/B testing, heatmaps, and session recordings to understand how users interact with your product.  
+Konträr zu vielen anderen kollaborativen Entscheidungsprozessen, haben wir nicht die Intention von jeder beteiligten und betroffen Person zu hören. Wir führen eine Liste (für die gesamte Gruppe) mit den Kriterien/Essenzen, die Menschen in der Gruppe berücksichtigt haben wollen. Wir fragen immer wieder alle, was für sie wichtig ist, das noch *nicht* auf dieser Liste steht. Im idealfall müssen wir nur von wenigen Menschen aus der Gruppe hören, um alle Kriterien zu finden. 
 
-For example:  
-- Test two versions of a form layout to see which one reduces drop-off rates.  
-- Analyze heatmaps to determine if users are engaging with key elements.  
+# Nachhaltige Entscheidungen treffen
 
----
+Zum sorgsamen Umgang der Ressourcen in der Gruppe gehört auch, dass die Entscheidung 
+- tatsächlich umgesetzt wird
+- und für einen Mindestzeitraum nicht geändert wird
 
-### 3. **Collaborate with Engineers**  
-Designers and engineers must work hand-in-hand to ensure precision. For instance, pixel-perfect design files are only useful if developers can implement them accurately. Regular check-ins and shared tools (like Zeplin or Figma) can help ensure alignment.  
+Wenn eine Entscheidung nicht umgesetzt wird, geht viel Energie verloren, und die Bereitschaft wieder eine gemeinsame Entscheidung zu treffen sinkt. 
 
----
+### Nichts aufgeben, dass wichtig ist
 
-## The Benefits of Precision  
+Wenn Menschen Kompromisse eingehen, geben sie oft Dinge auf, die ihnen wichtig sind. Und dann stehen sie nicht mehr wirklich hinter der Entscheidung, und es fehlt oft an Energie und Bereitschaft der Entscheidung zu folgen und/oder sie umzusetzen. 
 
-When precision is a priority, the results speak for themselves:  
-- **Higher User Satisfaction**: Users will notice the effort you put into every detail.  
-- **Increased Retention**: Seamless experiences encourage users to return.  
-- **Brand Loyalty**: Precision builds trust and reinforces your brand identity.
+Unser Ziel: **Eine Entscheidung, die alle als ihre eigene Entscheidung akzeptieren können.**
 
-> "Good design is obvious. Great design is transparent." – Joe Sparano  
+Wir versuchen daher bewusst und explizit zu vermeiden, dass Menschen etwas 
 
----
+Stattdessen wollen wir durch den Prozess ermöglichen, dass die Position von Menschen sich ändert, dadurch, dass sie tiefe Einblicke in das "Warum" der anderen bekommen. Dadurch ändert sich, was ihnen wichtig ist, und sie erleben nicht mehr, dass sie etwas aufgeben müssten. 
 
-## Final Thoughts  
+### Dauer der Entscheidung
 
-Crafting user experiences with precision isn’t just about perfect pixels or beautiful layouts—it’s about creating designs that work flawlessly for the user. From micro-interactions to responsive design, every detail matters. By prioritizing precision, you can build products that not only meet user expectations but exceed them.
+Eine Entscheidung, die direkt am kommenden Tag wieder umgeworfen wird ist keine Entscheidung. Und gleichzeitig sind Entscheidungen auch nicht für immer. Ein wichtiger Teil vieler Entscheidungen ist daher, wann oder unter welchen Bedingung die Entscheidung wieder aufgenommen wird. 
 
-*Caption: Precision in UX is about creating experiences that feel natural and intuitive.*
+### Was es von den Teilnehmenden braucht
 
-So, the next time you design, ask yourself: *Have I refined every detail to create an experience that feels effortless?*  
+Um die Schwelle niedrig zu halten, braucht es nur 
 
----
+Wir erwarten von niemanden große Sprünge. Alles was wir erwarten ist, dass Teilnehmer bereit sind 
+
+Was es in der Essenz braucht von allen Teilnehmendes, ist ein "Ja" dazu, dass wir eine Entscheidung bevorzugen, die für mehr Menschen funktioniert, als eine, die für weniger Menschen funktioniert. 
+
+--- 
+
+# Bezugsquellen
+
+Unsere Methodik basiert stark auf [Convergent Facilitation](https://convergentfacilitation.org), ursprünglich entwickelt von Miki Kashtan, und weiterentwickelt durch Roni Wiener. Convergent Facilitation ist enstanden aus den Prinzipien der Gewaltfreien Kommunikation (nach Marshall Rosenberg) mit dem Fokus auf Gruppenentscheidungen.
+
+
+--- 
+--- 
+--- 
+--- 
+
+
+# Archiv
+
+### Kein "einfaches" Reflektieren: Guess & Check
+
+Um ausr 
+
+Um bei Bedarf mehr in Tiefe zu gehen, dorthin wo wahrscheinlich mehr Gemeinsamen halten des Dilemmas möglich ist, bieten wir als Prozessbegleiter an
+
+
+
+Eine unserer Kernmethoden ist das Aufzeigen von *Dem-was-darunter* liegt. Entscheidungen hängen, dann wenn Leuten etwas wichtig ist was im direkt Konflikt 
+
+
+## Wir wir Entscheidungen nachhaltig machen
+
+
+### Alles was wichtig ist kommt mit rein 
+
+Bei Kompromissen. 
+
 
