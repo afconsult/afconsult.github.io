@@ -27,7 +27,7 @@ Im Kern dessen, was wir hier anbieten, ist die Annahme, dass alles was Menschen 
 
 > A: *"Ich will, dass alle im Raum gleich viel sprechen!"*
 >  
-> **Kontrovers** für B: *"Ich will hier nicht ewig sitzen, da wiederholt sich doch alles!"*
+> **Kontrovers** für B: *"Ich will hier doch nicht ewig sitzen, es wiederholt sich alles!"*
 >  
 > Tiefere Essenz für Person A, die für Person B **nicht kontrovers** ist:  
 > *"Ich will, dass alles, was wichtig ist, eingebracht werden kann."*
@@ -82,4 +82,112 @@ dann **Lösung (B)** zu bevorzugen.
 # Bezugsquellen
 
 Unsere Methodik basiert auf [Convergent Facilitation](https://convergentfacilitation.org), entwickelt von Miki Kashtan, sowie auf Zusätzen und Anpassungen entwickeltüber viele Jahre durch Roni Wiener im [Integration Station Collective](https://decisionsforall.org). Convergent Facilitation ist enstanden aus den Prinzipien der Gewaltfreien Kommunikation (nach Marshall Rosenberg) mit dem Fokus auf Gruppenentscheidungen.
+
+---
+
+# Archiv
+
+### Hinwendung statt dem Verfechten von Positionen
+
+Unsere Kultur hat uns beigebracht, dass wenn wir für etwas sind, wir meistens auch *gegen* etwas anderes sein müssen, damit wir bekommen was wir wollen. Da wird dann schnell diskutiert, warum das eine besser als das andere sei und dafür Argumente angeführt, und es kann passieren, dass das Verfechten der eigenen Position zum Selbstzweck wird. Wir versuchen, das Gegenüber von unserer Position zu überzeugen — und verlieren aus den Augen, dass evtl 
+
+und weil wir immer mehr Energie reinstecken *für* unsere Position zu argumentieren, werden wir auch immer verhafteter mit dieser. Die Schnittmenge der gemeinsamen Lösungen wird kleiner.
+
+
+
+Statt die Gruppe ins diskutieren kommmen zu lassen, helfen wir dabei immer wieder tief genug zu schauen, um Integration von allem was wichtig ist möglich zu machen: Was ist, dass der einen Person wichtig ist, und was gleichzeitig nicht für andere kontrovers ist? 
+
+- Tiefe: Intimität, Mitgefüùl
+
+-> "Ah, deshalb ist dir das also wichtig"
+
+> A: "Ich will, dass alle im Raum gleich viel sprechen!"
+>  
+> Kontrovers für B: "Ich will hier doch nicht ewig sitzen, es wiederholt sich doch alles!"
+>  
+> Essenz für Person A, die für Person B **nicht kontrovers** ist: "Ich will, dass alle sich ausreichend einbringen können."
+
+# Sorgsamer Umgang mit inneren Ressourcen
+
+Entscheidungen, die nicht leicht von der Hand gehen, können leicht extrem zeit- und energiezehrend werden. Uns ist wichtig, sorgsam mit den Energie- und Zeitressourcen aller Beteiligten umzugehen. Wir gucken daher stetig: Was braucht es gerade, um die Entscheidung zu treffen, und was nicht; was trägt zum Näherkommen zur Entscheidung bei, und was ist "verschwendete" Energie? 
+
+Wir folgen dafür einigen Prinzipien, hier mal in Kürze zusammengefasst.
+
+
+### Keine Übereinstimmung von Meinungen oder Glaubenssätzen nötig
+
+Diskussionen über allgemeine Glaubenssätze kommen schnell auf, wenn es um komplexe und polarisierende Entscheidungen geht, und zehren viel Energie von allen Beteiligten. 
+
+Wir bringen die Menschen in der Gruppe immer wieder zurück zu der Frage "Was möchtest Du/Sie in dieser Entscheidung berücksichtigt haben?". Wir bleiben da auf einer ganz praktischen Ebene und fragen *Was ist in genau dieser Situation für diesen bestimmten Zeitraum möglich?* Zur Beantwortung dieser Frage braucht es keine grundsätzliche Übereinstimmung jenseits dieser spezifischen Entscheidungen.
+
+
+### Alles was wichtig ist — aber nicht jede Stimme
+
+Konträr zu vielen anderen kollaborativen Entscheidungsprozessen, haben wir nicht die Intention von jeder beteiligten und betroffen Person zu hören. Wir führen eine Liste (für die gesamte Gruppe) mit den Kriterien/Essenzen, die Menschen in der Gruppe berücksichtigt haben wollen. Wir fragen immer wieder alle, was für sie wichtig ist, das noch *nicht* auf dieser Liste steht. Im idealfall müssen wir nur von wenigen Menschen aus der Gruppe hören, um alle Kriterien zu finden. 
+
+![Drawing of stones of which three contribute some shape to a central list](every-need.png)
+
+# Nachhaltige Entscheidungen treffen
+
+Zum sorgsamen Umgang der Ressourcen in der Gruppe gehört auch, dass die Entscheidung 
+- tatsächlich umgesetzt wird
+- und für einen Mindestzeitraum nicht geändert wird
+
+Wenn eine Entscheidung nicht umgesetzt wird, geht viel Energie verloren, und die Bereitschaft wieder eine gemeinsame Entscheidung zu treffen sinkt. 
+
+### Nichts aufgeben, dass wichtig ist
+
+Wenn Menschen Kompromisse eingehen, geben sie oft Dinge auf, die ihnen wichtig sind. Und dann stehen sie nicht mehr wirklich hinter der Entscheidung, und es fehlt oft an Energie und Bereitschaft der Entscheidung zu folgen und/oder sie umzusetzen. 
+
+Unser Ziel: **Eine Entscheidung, die alle als ihre eigene Entscheidung akzeptieren können.**
+
+Wir versuchen daher bewusst und explizit zu vermeiden, dass Menschen etwas 
+
+Stattdessen wollen wir durch den Prozess ermöglichen, dass die Position von Menschen sich ändert, dadurch, dass sie tiefe Einblicke in das "Warum" der anderen bekommen. Dadurch ändert sich, was ihnen wichtig ist, und sie erleben nicht mehr, dass sie etwas aufgeben müssten. 
+
+### Dauer der Entscheidung
+
+Eine Entscheidung, die direkt am kommenden Tag wieder umgeworfen wird ist keine Entscheidung. Und gleichzeitig sind Entscheidungen auch nicht für immer. Ein wichtiger Teil vieler Entscheidungen ist daher, wann oder unter welchen Bedingung die Entscheidung wieder aufgenommen wird. 
+
+### Was es von den Teilnehmenden braucht
+
+Um die Schwelle niedrig zu halten, braucht es nur 
+
+Wir erwarten von niemanden große Sprünge. Alles was wir erwarten ist, dass Teilnehmer bereit sind 
+
+Was es in der Essenz braucht von allen Teilnehmendes, ist ein "Ja" dazu, dass wir eine Entscheidung bevorzugen, die für mehr Menschen funktioniert, als eine, die für weniger Menschen funktioniert. 
+
+--- 
+
+# Bezugsquellen
+
+Unsere Methodik basiert auf [Convergent Facilitation](https://convergentfacilitation.org), entwickelt von Miki Kashtan, sowie Zusätze und Anpassungen entwickelt durch [Roni Wiener](https://decisionsforall.org). Convergent Facilitation ist zudem enstanden aus den Prinzipien der Gewaltfreien Kommunikation (nach Marshall Rosenberg) mit dem Fokus auf Gruppenentscheidungen.
+
+
+--- 
+--- 
+--- 
+--- 
+
+
+# Archiv
+
+### Kein "einfaches" Reflektieren: Guess & Check
+
+Um ausr 
+
+Um bei Bedarf mehr in Tiefe zu gehen, dorthin wo wahrscheinlich mehr Gemeinsamen halten des Dilemmas möglich ist, bieten wir als Prozessbegleiter an
+
+
+
+Eine unserer Kernmethoden ist das Aufzeigen von *Dem-was-darunter* liegt. Entscheidungen hängen, dann wenn Leuten etwas wichtig ist was im direkt Konflikt 
+
+
+## Wir wir Entscheidungen nachhaltig machen
+
+
+### Alles was wichtig ist kommt mit rein 
+
+Bei Kompromissen. 
+
 
