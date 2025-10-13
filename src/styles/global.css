@@ -106,7 +106,8 @@
 }
 
 blockquote {
-     quotes: none;
+    quotes: none;
+	font-style: normal;
 }
 
 img {
