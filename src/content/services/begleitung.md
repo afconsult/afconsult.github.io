@@ -14,16 +14,13 @@ tags: ["balance"]
 
 
 
-# Wie wir Bewegung in komplexe und polarsierende Entscheidungen bringen
+# Wie wir mit euch das Unmögliche bewegen.
 
-### Ausreichend Tiefe — und nicht mehr
+Wir helfen allen in der Gruppe, zu teilen, was ihnen wichtig ist, sodass alle das zugrundeliegende „Warum“ verstehen können. Auf diesem gemeinsamen Verständnis entwickeln wir mit euch Lösungen, die das Warum aller beinhalten. Um das sicherzustellen, checken wir die Vorschläge auf Bedenken und integrieren diese. Wenn keine Bedenken mehr da sind, haben wir eine Entscheidung.
 
-Mit unserer Unterstützung wollen wir die Bedingungen in einer Gruppe zu schaffen, dass gemeinsam neue, kreative — und wenn möglich ganz simple — Lösungen gefunden werden zu können zu bisher scheinbar unüberwindbaren Herausforderungen. Für uns bedeutet das im Kern, Menschen und Gruppen zu unterstützen, mit der Gruppe zu teilen warum ihnen etwas wichtig ist, so dass diese Information für alle verfügbar ist und bedacht werden kann. Dieses "Warum" liegt meist tiefer, dichter am Bedürfnis, und wir unterstützen dabei mehr in die Tiefe zu kommen. Gleichzeitig, wollen wir uns nicht unendlich in die Tiefe begeben, weil es dann schnell so abstrakt wird, dass konkrete Lösungsstrategien weiter in die Ferne rücken. Wir folgen dem Prinzip: *So konkret wie möglich, so tief wie nötig.* Das *nötig* ist dabei in jedem Fall dadurch definiert, wann etwas als *nicht mehr* kontrovers von anderen Menschen in der Gruppe erlebt wird — etwas wo sie ja zu sagen können, auch wenn es ihnen selbst nicht unbedingt wichtig ist. 
+#### *Artet das nicht in ewige Diskussionen aus?*
 
-![](sweetspot.png)
-
-
-Im Kern dessen, was wir hier anbieten, ist die Annahme, dass alles was Menschen tun (ja, auch gewaltvolle Taten), auf ein tiefer liegendes, lebensdienliches Bedürfnis zurückzuführen ist, und es an sich eine große Fülle an Möglichkeiten gibt, sich um dieses Bedürfnis zu kümmern. Und, wenn wir ausreichend dicht an dieses tiefere Bedürfnis herankommen, wenn wir die Essenz dessen, was einer Person so wichtig ist, für die Gruppe nachvollziehbar machen können, dann tauchen neue Lösungen auf. 
+Nein, denn durch unser Zuhören und gezieltes Zurückspiegeln helfen wir effektiv, die tiefere Essenz aufzuzeigen.
 
 > A: *"Ich will, dass alle im Raum gleich viel sprechen!"*
 >  
@@ -31,6 +28,28 @@ Im Kern dessen, was wir hier anbieten, ist die Annahme, dass alles was Menschen 
 >  
 > Tiefere Essenz für Person A, die für Person B **nicht kontrovers** ist:  
 > *"Ich will, dass alles, was wichtig ist, eingebracht werden kann."*
+
+#### *Ja, okay, ich kann sehen, dass das Beispiel funktioniert, aber es gibt Menschen, die sind einfach zu unvernünftig.*
+
+Wenn Menschen darauf vertrauen können, dass die tiefere Essenz, die ihnen wichtig ist, gehalten wird, können sie von konkreten Strategien loslassen, diese umzusetzen. Dann beginnt Magie möglich zu werden, denn häufig bringen die „unvernünftigsten“ Menschen die größten Schätze, wenn man einmal die tiefere Essenz ihres Anliegens begreift. Diese zugänglich zu machen, ist unser Job.
+
+> A: *“Mir ist wichtig, dass alle an den Entscheidungen beteiligt sind!“*
+> 
+> **Kontrovers** für B: *"Das geht gar nicht für mich, da komme ich ja gar nicht mehr voran mit meiner Arbeit.“*
+> 
+> Tiefere Essenz für Person A, die für Person B **nicht kontrovers** ist:  
+> A: *"Mir ist wichtig, dass wir gemeinsam entscheiden, für wen es wichtig ist wann wo mitzuentscheiden."*
+
+#### Okay, tell me more – wie funktioniert das im Detail, was ihr macht?
+
+Im Kern dessen, was wir hier anbieten, ist die Annahme, dass alles was Menschen tun (ja, auch gewaltvolle Taten), auf ein tiefer liegendes, lebensdienliches Bedürfnis zurückzuführen ist, und es an sich eine große Fülle an Möglichkeiten gibt, sich um dieses Bedürfnis zu kümmern. Und, wenn wir ausreichend dicht an dieses tiefere Bedürfnis herankommen, wenn wir die Essenz dessen, was einer Person so wichtig ist, für die Gruppe nachvollziehbar machen können, dann tauchen neue Lösungen auf.
+
+
+![](sweetspot.png)
+
+
+
+
 
 ### Vertrauen durch Zuwendung — statt Verfechten von Positionen
 
@@ -62,20 +81,14 @@ Wir begrüßen daher Einwände und Außenseiter Meinungen, da wir glauben, dass 
 
 ### Vertrauen, dass es möglich ist
 
-Und zu guter Letzt noch ein Aspekt der oft unsichtbar bleibt, aber für uns essentiell ist: Nur, wenn zumindest eine Person im Raum im vollen Vertrauens ist, dass eine Entscheidung, die für alle funktioniert, tatsächlich möglich ist, wird sie auch möglich. 
+Und zu guter Letzt noch ein Aspekt der oft unsichtbar bleibt, aber für uns essentiell ist: Nur, wenn zumindest eine Person im Raum im vollen Vertrauens ist, dass eine Entscheidung, die für alle funktioniert, tatsächlich möglich ist, wird sie auch möglich.
 
-Wir bringen dieses Vertrauen mit. Und wenn wir mal, von der Herausforderung überwältigt, auch das Vertrauen verlieren, dann haben wir ein starkes Unterstützungssystem um uns herum, das uns hilft wieder ins Vertrauen zu kommen.
+Wir bringen dieses Vertrauen mit. Und wenn wir uns mal von der Herausforderung überwältigt fühlen und selbst das Vertrauen verlieren, dann haben wir ein starkes Unterstützungssystem um uns herum, das uns wieder aufbaut. 
 
-# Was es von den Teilnehmenden braucht
 
-Wir erwarten von niemandem, dass sie etwas aufgeben, was ihnen am Herzen liegt.
+### Was es von den Teilnehmenden braucht:
 
-Was es von den Teilnehmenden braucht, ist die Bereitschaft, 
-- wenn es eine **Lösung (A)** gibt, die **nur** berücktsichtigt, was ihnen als Individum wichtig ist, 
-- und eine andere **Lösung (B)**, die **sowohl** das berücksichtigt, was ihnen als Individum wichtig ist, **als auch** noch dazu auch Aspekte integriert, die anderen wichtig sind, 
-
-dann **Lösung (B)** zu bevorzugen. 
-
+Die Bereitschaft den Prozess mit uns zu Beginnen.
 
 --- 
 
