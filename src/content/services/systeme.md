@@ -11,7 +11,154 @@ image:
   alt: "#_"
 tags: ["balance"]
 ---
-   
+
+## Entscheidungsblockaden sind vielfältig
+
+> *"Nicht schon wieder ein Meeting für 'ne Entscheidung!"*
+
+## "System": Strukturen für wiederkehrende Situationen
+
+Eine Küche ist ein System zur Zubereitung von Mahlzeiten. Wir wissen, dass wir wieder hungrig sein werden, und dafür sind bestimmte Werkzeuge und Abläufe hilfreich. Je nach Kontext, gibt es unterschiedliche eingerichtete Küchen und Abläufe. In allen Fällen, machen sie es uns aber leichter Essen zu zu bereiten, wenn wir es wollen. Die Abwesenheit eines — für uns hilfreiches — System lässt sich zum Beispiel bemerken, wenn wir an neuen Orten sind: Oft sind weniger, oder viel mehr Werkzeuge verfügbar, wir wissen nicht wo sie sind, oder sie sind an für uns schwierig erreichbaren Orten. Als Folge daraus dauert die Essenszubereitung oft länger und ist energieaufwändiger, oder das Ergebnis ist deutlich weniger beeindruckend, als das was wir sonst erbringen können. 
+
+> *"Kann ich das entscheiden?!"*
+
+**Beim Entscheiden ist es ähnlich:** 
+
+Ein Entscheidungssystem aus definierten Werkzeugen und Abläufen kann uns helfen 
+- flexibler, schneller und mit weniger energieaufwand bessere Entscheidungen zu treffen
+- uns zu kalibieren und dadurch ein geteiltes Verständnis zu kriegen wie wir Entscheidungen treffen wollen
+- flexible Verantwortung zu verteilen
+- ins Handeln zu kommen und Gewohnheiten zu ändern
+
+> *"Müssen wirklich alle von dieser Entscheidung wissen?!"*
+
+### Abmachungen
+
+Die Strukturen oder Elemente eines Entscheidungssystems sind für gewöhnlich nicht phyischer Natur, sondern nehmen die Gestalt von "Abmachungen" an.
+
+**Für uns sind Abmachungen**:
+- gemeinsam getroffene Vereinbarungen
+- die allen als **unterstützende** Struktur dienen
+- und sich (zu verschiedenen Graden) durch Dialog an passen lassen. 
+
+Im Kontrast dazu, werden "Regeln" häufig zum Erzwingen benutzt, und dazu meist nicht offen dafür durch Dialog angepasst zu werden. Die genauen Worte (Abmachungen/Regeln) sind uns hier nicht so wichtig; wichtig ist uns, dass die Struktur angepasst werden kann, wenn sie ihrem eigentlichen Zweck nicht mehr dient. 
+
+
+
+### Elemente eines Entscheidungssystem
+
+Ebenso wie es in einer Küche verschiedene Elemente (Geräte) gibt, die besonders nützlich sind und in jeder Küche vorzufinden sind, gibt es auch beim Entscheiden verschiedene Elemente, die wir uns bewusst zunutze machen können:
+
+
+**Arten der Beteiligung:**
+|Bezeichnung|Beschreibung
+|---|---|
+|**Initiieren und Definieren**| Sieht den Bedarf für eine Entscheidung und formuliert eine Entscheidungsfrage. 
+|**In Bewegung halten**| Kümmert sich darum, dass die Entscheidung sich forwärts bewegt.
+|**Input geben**| Trägt Bedürfnisse, Meinungen und Ideen bei.
+|**Generieren**| Erstellt Lösungsvorschläge basierend auf der Entscheidungsfrage und dem Input.
+|**Feedback geben**| Gibt Rückmeldung zu den erstellten Lösungsvorschlägen. 
+|**Zustimmen**| Evaluiert Lösungsvorschläge in Bezug auf die Entscheidungsfrage und Input und kann Lösungvorschläge "heraussieben/filtern" (Veto einlegen). 
+|**Integrieren**| Passt die Lösungsvorschläge an, basierend auf dem Feedback und
+|**Entscheiden**| Evaluiert die (verbleibenden) Lösungsvorschläge und **wählt genau einen Vorschlag aus**. 
+|**Informiert werden**| Wird über den Ausgang der Entscheidung informiert. 
+|**Ausführen**| Führt die Entscheidung aus. 
+
+## Dynamische, nützliche Hierarchien
+
+Die einen finden Hierarchien großartig, die andere wollen jegliche Hierarchie ausglätten. Für uns ist wichtig zu fragen: **"Welchem Zweck dient eine Hierarchie in welchem Kontext?"**.
+
+> *"Kann das bitte jetzt einfach mal wer entscheiden!"*
+
+Wenn wir eine rigide Hierarchie haben, werden die "Entscheider" oft zum Flaschenhals, und jegliche Vorwärtsbewegung hängt an ihnen. Zudem fehlen ihnen oft die relevanten Informationen, um gute Entscheidungen zu treffen. Außerdem, kann es leicht passieren, dass, selbst wenn die "Entscheider" Zugang zu allen Informationen (Bedürfnisse, Ressourcen, Auswirkungen) sie zum Beispiel gewisse Bedürfnisse (ihre eigenen) priorisieren.
+
+> *"Wer hat das denn entschieden?!"*
+
+Bei manchen Entscheidungen wollen wir alle Betroffenen und Beteiligten gleichermaßen involvieren. Tatsächlich kommt das aber eher selten vor, und wenn wir das bei allen Entscheidungen machen würden, würden alle Zeit und Kraft darin verloren gehen. 
+
+> *"Dazu will ich am liebsten gar nichts hören!"*
+
+Wenn wir uns vorstellen, dass eine Gruppe/Team aus einem Netz aus Beziehungen besteht:
+
+
+![](4.jpg)
+
+So könnten wir diese als rigide Hierarchie darstellen:
+
+![](5.jpg)
+
+Oder je nach Bedarf, können wir neue Hierarchien aufspannen: 
+
+![](1.jpg)
+
+![](2.jpg)
+
+![](3.jpg)
+
+So können wie dynamisch, je nach Bedarf verschiedene Entscheidungshierarchien aufspannen, und so effizient entscheiden und dabei flexibel bleiben. 
+
+--- 
+---
+---
+---
+
+# Archiv
+
+## Mehr Flow, weniger Energieverlust
+
+Wir alle treffen unendlich viele Entscheidungen jeden Tag. Von den meisten kriegen wir gar nichts mit, so schnell und unbewusst finden sie statt. Und dann gibt es viele über die wir nur kurz nachdenken, und die beste Lösung ist eindeutig. Und seltener kommen uns die Entscheidungen unter, die zwar schwierig und energieaufwendig sind, aber wo auch klar ist, wie und mit wem wir sie treffen.
+
+Und dann gibt es eine Reihe von Entscheidungen — oft wiederkehrend — , die uns ins Stolpern geraten lassen, wo Reibung entsteht, und wo am Ende womöglich dennoch nicht mal eine Entscheidung steht. 
+
+Eine Ursache für Energieverlust ist oft, dass die Klarheit fehlt wer wie in eine Entscheidung involviert ist. Hierbei kann eine sogenannte Entscheidungsmatrix helfen. 
+
+Wo oft viel Energie verloren geht, ist dort, wo wir regelmäßig Unklarheit haben wer eigentlich wie in eine Entscheidung involviert ist, bzw. sein will. Eine Möglichkeit dies sichtbar zu machen ist mit einer sogenannten Entscheidungsmatrix:
+
+## Klarheit schaffen wer wann "in Führung" gehen kann
+
+
+
+**Example Table:**  
+|
+| Entscheidungsfrage       | Benefit                     | Example Use Case          |  
+|---------------------------------------|-----------------------------|---------------------------|  
+| **SimplicityYYY**    | Easy to understand          | Onboarding new users      |  
+| Scalability   | Adapts to growing needs     | Expanding product features |  
+| Accessibility | Inclusive for all audiences | Adding alt text to images |  
+
+## Die Entscheidungsblackbox zerlegen
+
+Entscheidungen haben erstaunlich viele Elemente, die gar nicht so offentlich sind. Und wenn wir diese sichtbar machen, können wir sie bewusst nutzen und die Art und Weise wie wir Entscheidungen treffen dynamischer und flexiber gestalten, und besser auf die jeweilige Situation und Kontext anpassen.
+
+
+
+
+
+## Jenseits von Hierarchie und Konsens
+
+Zwei bekannte (extreme) Entscheidungsmechanismen sind (rigide) Hierarchie und Konsens. Im einen reicht das "Ja" von *einer Person*, wo beim anderen das "Ja" von *allen* benötigt wird. Wo beim einen oft mehr oder weniger subtiler Zwang involviert ist, um eine Entscheidung zu treffen, braucht es beim anderen oft viel Zeit, um überhaupt zu einer Entscheidung zu kommen. Beim einen "leitet" oft nur eine Person, beim anderen niemand. 
+
+Wir sehen Hierarchien als nützlich — da sie sehr effizient sind — solange sie dynamisch, und nicht rigide, eingesetzt werden. Es gibt Entscheidungen, wo es wichtig ist, dass alle voll dabei sind, und es gibt ebenso viele Entscheidungen, die dadurch unnötig ausgebremst werden. 
+
+
+
+
+
+
+
+> **"Systeme sind Strukturen, die sich wiederholendes einfacher machen... — Dominic Barter"
+
+Strukturen können physisch sein (wie z.B. ein "Essenzubereitungssystem", ebenso wie Abmachungen)
+
+## Hierarchien
+
+Hierarchien sind nützlich
+
+
+
+
+
+
 
 > "This is a placeholder quote to grab attention." – Author Unknown  
 
