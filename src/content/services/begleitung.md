@@ -72,10 +72,12 @@ Wir führen eine Liste (für die gesamte Gruppe) mit den unstrittigen Kriterien,
 
 ### Nichts wird aufgegeben
 
-Wenn wichtige Aspekte nicht integriert werden, dann reduziert das die Wahrscheinlichkeit einer (erfolgreichen) Umsetzung einer Entscheidung. Dann wird die Entscheidung zwar getroffen, aber die, die mitverantwortlich sind für die erfolgreiche Umsetzung, tragen möglicherweise noch Widerstände in sich und so tritt das eigentlich gewünschte Ergebnis eventuell nie ein. 
+Alle Aspekte zu integrieren ist essentiell für uns, denn: 
 
-Wir begrüßen daher Einwände und Außenseiter Meinungen, da wir glauben, dass es wichtig — und möglich — ist diese zu integrieren, um eine solide, nachhaltige Entscheidung zu treffen.
+1. Alle bringen ein Stück Realität mit, das anderen nicht zugänglich ist — so machen wir die Entscheidung solider.
+2. Wenn alle die Entscheidung als ihre eigenen ansehen, wird sie auch von allen mitgetragen. 
 
+Und häufig bieten gerade extreme Meinungen die größten unentdeckten Schätze.
 
 ### Vertrauen, dass es möglich ist
 
