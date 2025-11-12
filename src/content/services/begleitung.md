@@ -63,9 +63,9 @@ Durch das von uns begleite Tiefergehen, durch das temporäre Distanzschaffen von
 
 ![Bild mit zwei Steinen, die zueinander hüpfen](mutual-willingness.png)
 
-### Alles was wichtig ist — aber nicht jede Stimme
+### Alles was wichtig ist — aber <u>nicht</u> jede Stimme
 
-Konträr zu vielen anderen kollaborativen Entscheidungsprozessen, haben wir nicht die Intention von jeder beteiligten und betroffen Person zu hören. Wir führen eine Liste (für die gesamte Gruppe) mit den Kriterien/Essenzen, die Menschen in der Gruppe berücksichtigt haben wollen. Wir fragen immer wieder alle, was für sie wichtig ist, das noch *nicht* auf dieser Liste steht. Im Idealfall müssen wir nur von wenigen Menschen aus der Gruppe hören, um alle Kriterien zu finden, und — basierend auf der Annahme, dass das Set zu berücksichtigender Aspekte/Bedürfnis endlich ist — auch mit großen Gruppen möglich, und gleichzeit schont es in jedem Fall die Ressourcen in der Gruppe.
+Wir führen eine Liste (für die gesamte Gruppe) mit den unstrittigen Kriterien, die im Prozess bereits sichtbar geworden sind. Wir fragen immer wieder alle, was für sie wichtig ist, das noch *nicht* auf dieser Liste steht. Im Idealfall müssen wir nur von wenigen Menschen aus der Gruppe hören, um alle Kriterien zu finden. Dies macht insbesonders Entscheidungen in sehr großen Gruppen möglich, weil die Menge an Bedürfnissen **endlich** ist.
 
 ![Drawing of stones of which three contribute some shape to a central list](every-need.png)
 
