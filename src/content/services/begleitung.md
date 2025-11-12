@@ -34,7 +34,6 @@ Nein, denn durch unser Zuhören und gezieltes Zurückspiegeln helfen wir effekti
 Unserer Erfahrung nach lassen sich schwer nachvollziehbare und scheinbar unvereinbare Positionen zusammenbringen, wenn für alle sichtbar wird, worum es den Personen unter Oberfläche eigentlich wirklich geht. Da können dann regelrecht magische Momente entstehen.
 
 
-
 > A: *“Mir ist wichtig, dass alle an den Entscheidungen beteiligt sind!“*
 > 
 > **Kontrovers** für B: *"Das geht gar nicht für mich, da komme ich ja gar nicht mehr voran mit meiner Arbeit.“*
@@ -70,9 +69,6 @@ Konträr zu vielen anderen kollaborativen Entscheidungsprozessen, haben wir nich
 
 ![Drawing of stones of which three contribute some shape to a central list](every-need.png)
 
-### Klar definierter Entscheidungshorizont
-
-Eine Entscheidung, die über möglicherweise Wochen oder sogar Monate getroffen wurde, ist keine Entscheidung, wenn sie am Folgetag direkt wieder verworfen wird. Gleichzeitig, fällt es Menschen schwerer ihr volles "Ja" für eine Entscheidung zu geben, wenn unklar ist für welchen Zeitraum diese Entscheidung jetzt gilt. Gerade bei Entscheidungen, wo wenig Informationen über die Auswirkungen dieser oder jener Lösung vorhanden sind, und solchen, die sich leicht immer wieder neu treffen lassen, achten wir darauf, klar zu definieren für wie lang diese Entscheidung gilt — 4 Woche, 6 Monate, 1 Jahr? 
 
 ### Nichts wird aufgegeben
 
