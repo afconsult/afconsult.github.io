@@ -31,7 +31,7 @@ Nein, denn durch unser Zuhören und gezieltes Zurückspiegeln helfen wir effekti
 
 #### *Ja, okay, ich kann sehen, dass das Beispiel funktioniert, aber es gibt Menschen, die sind einfach zu unvernünftig.*
 
-Unserer Erfahrung nach lassen sich schwer nachvollziehbare und scheinbar unvereinbare Positionen zusammenbringen, wenn die tiefer liegende Essenz dieser Positionen für alle sichtbar wird. Da können dann regelrecht magische Momente entstehen.
+Unserer Erfahrung nach lassen sich schwer nachvollziehbare und scheinbar unvereinbare Positionen zusammenbringen, wenn für alle sichtbar wird, worum es den Personen unter Oberfläche eigentlich wirklich geht. Da können dann regelrecht magische Momente entstehen.
 
 
 
@@ -40,7 +40,7 @@ Unserer Erfahrung nach lassen sich schwer nachvollziehbare und scheinbar unverei
 > **Kontrovers** für B: *"Das geht gar nicht für mich, da komme ich ja gar nicht mehr voran mit meiner Arbeit.“*
 > 
 > Tiefere Essenz für Person A, die für Person B **nicht kontrovers** ist:  
-> A: *"Mir ist wichtig, dass wir gemeinsam entscheiden, für wen es wichtig ist wann wo mitzuentscheiden."*
+> A: *"Mir ist wichtig, dass wir gemeinsam entscheiden, für wen es wichtig ist, wann wo mitzuentscheiden."*
 
 #### Okay, tell me more – wie funktioniert das im Detail, was ihr macht?
 
