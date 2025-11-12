@@ -31,7 +31,9 @@ Nein, denn durch unser Zuhören und gezieltes Zurückspiegeln helfen wir effekti
 
 #### *Ja, okay, ich kann sehen, dass das Beispiel funktioniert, aber es gibt Menschen, die sind einfach zu unvernünftig.*
 
-Wenn Menschen darauf vertrauen können, dass die tiefere Essenz, die ihnen wichtig ist, gehalten wird, können sie von konkreten Strategien loslassen, diese umzusetzen. Dann beginnt Magie möglich zu werden, denn häufig bringen die „unvernünftigsten“ Menschen die größten Schätze, wenn man einmal die tiefere Essenz ihres Anliegens begreift. Diese zugänglich zu machen, ist unser Job.
+Unserer Erfahrung nach lassen sich schwer nachvollziehbare und scheinbar unvereinbare Positionen zusammenbringen, wenn die tiefer liegende Essenz dieser Positionen für alle sichtbar wird. Da können dann regelrecht magische Momente entstehen.
+
+
 
 > A: *“Mir ist wichtig, dass alle an den Entscheidungen beteiligt sind!“*
 > 
