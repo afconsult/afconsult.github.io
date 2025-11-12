@@ -47,35 +47,39 @@ Im Kern dessen, was wir hier anbieten, ist die Annahme, dass alles was Menschen 
 
 
 ![](sweetspot.png)
+*Abbildung 1: Wir gehen tief genug, um das "Warum" hinter kontroversen Positionen und Meinungen sichtbar zu machen, und so Vertrauen und Zuwendung zu ermöglichen. Und gleichzeitig bleiben wir so konkret wie möglich, um eine praktische Lösung zu finden.*
 
 
 
 
+### Bewegung durch Zuwendung
 
-### Vertrauen durch Zuwendung — statt Verfechten von Positionen
+Unsere gesellschaftlich etablierte Diskussionskultur macht es uns oft schwer, tiefer zu gehen. Wir sind es gewohnt, unsere Position zu verfechten. Und wenn wir das Gefühl haben, wir müssten um das, was uns so wichtig ist, kämpfen, fällt es uns schwierig, uns ums Ganze zu kümmern. Unsere Bereitschaft, mit Lösungen zu gehen, die außerhalb unserer individuellen Präferenz liegen, ist gering (siehe Abbildung 2). 
 
 
-Unsere gesellschafltlich etablierte Diskussionskultur macht es uns allerdings oft schwer tiefer zu gehen, und gemeinsam zu gucken "was dahinter steckt". Stattdessen sind wir es gewöhnt, unsere Position zu verfechten indem wir andere versuchen durch Argumente zu überzeugen. Das Problem hierbei ist, dass wir schnell gegeneinander arbeiten, und unsere individuelle Sorge wächst, dass wir mit jeder "Zusage" an unser Gegenüber, etwas von dem was uns wichtig ist aufgeben müssen. Dieses Erleben vom Gegeneinander und vom Beschützen dessen was uns wichtig ist, führt dazu, dass die Bereitschaft eine Lösung außerhalb unserer Präferenz zu akzeptieren immer kleiner wird.  
 
 ![Bild mit zwei Steinen die weiter auseinander sind](missing-mutual-willingness.png)
+*Abbildung 2: Wenn wir uns gefühlt alleine um das kümmern müssen, was uns so wichtig ist, dann haben wir meist wenig Kapazität und Bereitschaft, mitzubedenken was anderen am Herzen liegt — und gemeinsame Lösungen sind nicht möglich.*
 
-Durch das von uns begleite Tiefergehen, durch das temporäre Distanzschaffen von einer konkreten Lösung, wird es für alle in der Gruppe leichter sich dem zuzuwenden, was anderen der am Herzen liegt. Unsere Begleitung macht es möglich Fürsorge auch über extreme Meinungsdifferenzen hinweg zu erleben. Und wenn wir als Menschen erleben, dass andere sich dem, was uns am Herzen liegt, ohne Widerstand zuwenden können, dann können wir uns entspannen und Vertrauen entwickeln, dass das, was uns so wichtig ist, von anderen berücksichtigt wird. Sobald wir dieses Vertrauen haben, ist es leichter über ein ganzheitliches Problem nachzudenken, und es erhöht sich unsere Bereitschaft mit Lösungen mitzugehen, die nicht unsere Präferenz sind.
+Durch unsere spezifische, stark moderierte Form der Begleitung machen wir es den Teilnehmenden möglich, sich einander zuzuwenden — und, statt sich gegenseitig als Problem wahrzunehmen, nun gemeinsam an einem Dilemma zu arbeiten.
+
+Dadurch ändern manche tatsächlich ihre Position, weil sie mehr Einsicht in die Realität und Bedürfnisse anderen haben. Und es erhöht sich gewöhnlich bei allen die Bereitschaft für Lösungen, die nicht der eigenen Präferenz entsprechen (siehe Abbildung 3).  
 
 ![Bild mit zwei Steinen, die zueinander hüpfen](mutual-willingness.png)
-
+*Abbildung 3: Erhöhte geteilte Bereitschaft für Lösungen, ermöglicht durch Zuwendung, und Vertrauen, dass andere sich auch um das kümmern wollen, was uns selbst wichtig ist.*
 ### Alles was wichtig ist — aber <u>nicht</u> jede Stimme
 
 Wir führen eine Liste (für die gesamte Gruppe) mit den unstrittigen Kriterien, die im Prozess bereits sichtbar geworden sind. Wir fragen immer wieder alle, was für sie wichtig ist, das noch *nicht* auf dieser Liste steht. Im Idealfall müssen wir nur von wenigen Menschen aus der Gruppe hören, um alle Kriterien zu finden. Dies macht insbesondere Entscheidungen in sehr großen Gruppen möglich, weil die Menge an Bedürfnissen **endlich** ist.
 
 ![Drawing of stones of which three contribute some shape to a central list](every-need.png)
-
+*Abbildung 4: Alles was wichtig ist (gelbe, blaue, grüne "Kriterien" werden gesammelt), aber nicht jede Stimme — annehmend, dass die Menge der Bedürfnisse/Kriterien im Raum endlich ist. Dadurch müssen nicht alle Stimmen gehört werden.*
 
 ### Nichts wird aufgegeben
 
 Alle Aspekte zu integrieren ist essentiell für uns, denn: 
 
-1. Alle bringen ein Stück Realität mit, das anderen nicht zugänglich ist — so machen wir die Entscheidung solider.
-2. Wenn alle die Entscheidung als ihre eigenen ansehen, wird sie auch von allen mitgetragen. 
+1. Alle bringen ein Stück Realität mit, das anderen nicht zugänglich ist — so machen wir die Entscheidung im Ganzen solider.
+2. Wenn alle die Entscheidung als ihre eigene ansehen, wird sie auch von allen aktiv mitgetragen. 
 
 Und häufig bieten gerade extreme Meinungen die größten unentdeckten Schätze.
 
@@ -85,7 +89,9 @@ Wir bringen das Vertrauen und die Erfahrung — sowie Unterstützung — eines N
 
 --- 
 
-# Bezugsquellen
+## Unsere Bezugsquellen
 
 Unsere Methodik basiert auf [Convergent Facilitation](https://convergentfacilitation.org), entwickelt von Miki Kashtan, sowie auf Zusätzen und Anpassungen, entwickelt über viele Jahre durch Roni Wiener im [Integration Station Collective](https://decisionsforall.org). Convergent Facilitation ist entstanden aus den Prinzipien der Gewaltfreien Kommunikation (nach Marshall Rosenberg) mit dem Fokus auf Gruppenentscheidungen.
+
+Abbildung 2 und 3 sind aus dem Buch ["The High Common Denominator"](https://convergentfacilitation.org/book-highest-common-denominator/) von Miki Kashtan entnommen und abgewandelt worden. 
 
