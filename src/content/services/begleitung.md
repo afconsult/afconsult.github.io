@@ -65,7 +65,7 @@ Durch das von uns begleite Tiefergehen, durch das temporäre Distanzschaffen von
 
 ### Alles was wichtig ist — aber <u>nicht</u> jede Stimme
 
-Wir führen eine Liste (für die gesamte Gruppe) mit den unstrittigen Kriterien, die im Prozess bereits sichtbar geworden sind. Wir fragen immer wieder alle, was für sie wichtig ist, das noch *nicht* auf dieser Liste steht. Im Idealfall müssen wir nur von wenigen Menschen aus der Gruppe hören, um alle Kriterien zu finden. Dies macht insbesonders Entscheidungen in sehr großen Gruppen möglich, weil die Menge an Bedürfnissen **endlich** ist.
+Wir führen eine Liste (für die gesamte Gruppe) mit den unstrittigen Kriterien, die im Prozess bereits sichtbar geworden sind. Wir fragen immer wieder alle, was für sie wichtig ist, das noch *nicht* auf dieser Liste steht. Im Idealfall müssen wir nur von wenigen Menschen aus der Gruppe hören, um alle Kriterien zu finden. Dies macht insbesondere Entscheidungen in sehr großen Gruppen möglich, weil die Menge an Bedürfnissen **endlich** ist.
 
 ![Drawing of stones of which three contribute some shape to a central list](every-need.png)
 
@@ -79,20 +79,13 @@ Alle Aspekte zu integrieren ist essentiell für uns, denn:
 
 Und häufig bieten gerade extreme Meinungen die größten unentdeckten Schätze.
 
-### Vertrauen, dass es möglich ist
+### Vertrauen und Erfahrung, dass es möglich ist
 
-Und zu guter Letzt noch ein Aspekt der oft unsichtbar bleibt, aber für uns essentiell ist: Nur, wenn zumindest eine Person im Raum im vollen Vertrauens ist, dass eine Entscheidung, die für alle funktioniert, tatsächlich möglich ist, wird sie auch möglich.
-
-Wir bringen dieses Vertrauen mit. Und wenn wir uns mal von der Herausforderung überwältigt fühlen und selbst das Vertrauen verlieren, dann haben wir ein starkes Unterstützungssystem um uns herum, das uns wieder aufbaut. 
-
-
-### Was es von den Teilnehmenden braucht:
-
-Die Bereitschaft den Prozess mit uns zu Beginnen.
+Wir bringen das Vertrauen und die Erfahrung — sowie Unterstützung — eines Netzwerkes der Gewaltfreiheit mit, dass es möglich ist — und die es uns möglich macht —, eine Entscheidung zu treffen, die für alle funktioniert.
 
 --- 
 
 # Bezugsquellen
 
-Unsere Methodik basiert auf [Convergent Facilitation](https://convergentfacilitation.org), entwickelt von Miki Kashtan, sowie auf Zusätzen und Anpassungen entwickeltüber viele Jahre durch Roni Wiener im [Integration Station Collective](https://decisionsforall.org). Convergent Facilitation ist enstanden aus den Prinzipien der Gewaltfreien Kommunikation (nach Marshall Rosenberg) mit dem Fokus auf Gruppenentscheidungen.
+Unsere Methodik basiert auf [Convergent Facilitation](https://convergentfacilitation.org), entwickelt von Miki Kashtan, sowie auf Zusätzen und Anpassungen, entwickelt über viele Jahre durch Roni Wiener im [Integration Station Collective](https://decisionsforall.org). Convergent Facilitation ist entstanden aus den Prinzipien der Gewaltfreien Kommunikation (nach Marshall Rosenberg) mit dem Fokus auf Gruppenentscheidungen.
 
