@@ -46,7 +46,7 @@ Unserer Erfahrung nach lassen sich schwer nachvollziehbare und scheinbar unverei
 Im Kern dessen, was wir hier anbieten, ist die Annahme, dass alles was Menschen tun (ja, auch gewaltvolle Taten), auf ein tiefer liegendes, lebensdienliches Bedürfnis zurückzuführen ist, und es an sich eine große Fülle an Möglichkeiten gibt, sich um dieses Bedürfnis zu kümmern. Und, wenn wir ausreichend dicht an dieses tiefere Bedürfnis herankommen, wenn wir die Essenz dessen, was einer Person so wichtig ist, für die Gruppe nachvollziehbar machen können, dann tauchen neue Lösungen auf.
 
 
-![](sweetspot.png)
+![](sweetspot_flat.png)
 *Abbildung 1: Wir gehen tief genug, um das "Warum" hinter kontroversen Positionen und Meinungen sichtbar zu machen, und so Vertrauen und Zuwendung zu ermöglichen. Und gleichzeitig bleiben wir so konkret wie möglich, um eine praktische Lösung zu finden.*
 
 
@@ -61,7 +61,7 @@ Unsere gesellschaftlich etablierte Diskussionskultur macht es uns oft schwer, ti
 ![Bild mit zwei Steinen die weiter auseinander sind](missing-mutual-willingness.png)
 *Abbildung 2: Wenn wir uns gefühlt alleine um das kümmern müssen, was uns so wichtig ist, dann haben wir meist wenig Kapazität und Bereitschaft, mitzubedenken was anderen am Herzen liegt — und gemeinsame Lösungen sind nicht möglich.*
 
-Durch unsere spezifische, stark moderierte Form der Begleitung machen wir es den Teilnehmenden möglich, sich einander zuzuwenden — und, statt sich gegenseitig als Problem wahrzunehmen, nun gemeinsam an einem Dilemma zu arbeiten.
+Durch unsere spezifische, achtsam unterstützende Form der Begleitung machen wir es den Teilnehmenden möglich, sich einander zuzuwenden — und, statt sich gegenseitig als Problem wahrzunehmen, nun gemeinsam an einem Dilemma zu arbeiten.
 
 Dadurch ändern manche tatsächlich ihre Position, weil sie mehr Einsicht in die Realität und Bedürfnisse anderen haben. Und es erhöht sich gewöhnlich bei allen die Bereitschaft für Lösungen, die nicht der eigenen Präferenz entsprechen (siehe Abbildung 3).  
 
@@ -85,7 +85,7 @@ Und häufig bieten gerade extreme Meinungen die größten unentdeckten Schätze.
 
 ### Vertrauen und Erfahrung, dass es möglich ist
 
-Wir bringen das Vertrauen und die Erfahrung — sowie Unterstützung — eines Netzwerkes der Gewaltfreiheit mit, dass es möglich ist — und die es uns möglich macht —, eine Entscheidung zu treffen, die für alle funktioniert.
+Wir bringen das Vertrauen und die Erfahrung — sowie Unterstützung — eines Netzwerkes der Gewaltfreiheit mit, dass es möglich ist, eine Entscheidung zu treffen, die für alle funktioniert.
 
 --- 
 
