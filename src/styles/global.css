@@ -114,3 +114,8 @@ img {
     border: none;
 }
 
+table, tr, td {  border: 1px solid !important; border-left: none !important; border-right: none !important; border-collapse: collapse !important; }
+table, th {  border: 2px solid !important; border-left: none !important; border-right: none !important; border-collapse: collapse !important; }
+
+
+
