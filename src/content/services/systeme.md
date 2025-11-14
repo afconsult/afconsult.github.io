@@ -14,7 +14,7 @@ tags: ["balance"]
 
 # "System": Strukturen für wiederkehrende Situationen
 
-Für Dinge, die wir immer wieder machen, entwickeln wir Strukturen, die uns diese Dinge leichter machen. Physische Systeme sind leicht für uns zu sehen, soziale weniger sind weniger offensichtlich. Ein gutes System für Entscheidungen ermöglicht es Blockaden im Entscheidungsfluss aufzulösen.
+Für Dinge, die wir immer wieder machen, entwickeln wir Strukturen, die uns diese Dinge leichter machen. Physische Systeme sind leicht für uns zu sehen, soziale sind weniger offensichtlich. Ein gutes System für Entscheidungen ermöglicht es Blockaden im Entscheidungsfluss aufzulösen.
 
 <div style="text-align: right;">
 
